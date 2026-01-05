@@ -1,0 +1,5 @@
+{
+  "home": "/",
+  "about": "/about/:iduser/info/:idevent",
+  "investorRelations": "/investor/:investorId/details/:section"
+}

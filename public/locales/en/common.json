@@ -1,0 +1,50 @@
+{
+  "home": "Home",
+  "about": "About Us",
+  "InvestorRelations":"Investor Relations",
+  "InvestmentBanking":"Investment Banking",
+  "AssestManagement":"Assest Management",
+  "InformationCenter":"Information Center",
+  "login": "Login",
+  "new_user": "New User",
+
+
+
+  "hero": {
+     "Miyar_Capital": "Miyar Capital",
+  "description": "Established in 2021, it is a Saudi investment company headquartered in Riyadh with a capital of 20 million Saudi Riyals.",
+  "Explore_Our_Services": "Explore Our Services"
+  },
+  "ourServices": "Our Services",
+  "Why_Miyar": "Why Miyar Capital",
+  "contactUs": "Contact Us",
+
+  
+
+  
+  "contact": {
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Message",
+    "writeMessage": "Write your message here...",
+    "selectSubject": "Select Subject",
+    "generalInquiry": "General Inquiry",
+    "sendMessage": "Send Message"
+  },
+
+    "footer": {
+
+    "ImportantLinks" : "Important Links",
+    "InvestorRelations":"Investor Relations",
+    "InvestmentBanking":"Investment Banking",
+    "AssestManagement":"Assest Management",
+    "InformationCenter":"Information Center",
+    "ContactUs":"Contact Us",
+    "location":"Unit No. 11, Building No. 7720, King Fahd Road, Al Muhammadiyah District, Postal Code 12363, Riyadh, Saudi Arabia",
+    "ConnectWithUs":"Connect With Us"
+
+  }
+
+}
